@@ -1,4 +1,5 @@
 import streamlit as st
+pip install tensorflow
 import requests
 import numpy as np
 from PIL import Image
